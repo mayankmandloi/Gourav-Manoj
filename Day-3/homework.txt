@@ -1,0 +1,3 @@
+1)take 2 number as input from user via prompt
+convert input to type number then print sum of those number in console
+2)take 3 number as input fron user print the largest
