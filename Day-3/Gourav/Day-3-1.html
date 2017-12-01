@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Prompt Example</title>
+</head>
+<body>
+<h2>take 2 number as input from user via prompt
+convert input to type number then print sum of those number in console</h2>
+<h2 id="output"></h2>
+
+<script type="text/javascript">
+	var value1 = window.parseInt(prompt("Enter the first number", ""));
+	var value2 = window.parseInt(prompt("Enter the second number", ""));
+
+	var result = value1+value2;
+	console.log(value1+value2);
+	document.getElementById("output").innerHTML = ("Answer is" + " " + result);
+</script>
+</body>
+</html>
