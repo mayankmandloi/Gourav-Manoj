@@ -1,0 +1,4 @@
+Q1) print all odd number from 1 to 100
+Q2) print sum of all even number from 1 to 100
+Q3) 121 1551 18981 this are palindrome numbers find all the palindrome numbers from 1 to 10000
+Q4) 0 1 1 2 3 5 8 13 21....... take input the number of terms and print the above sequance;
